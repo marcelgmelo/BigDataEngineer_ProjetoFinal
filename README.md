@@ -14,7 +14,8 @@ Referência das Visualizações:
 7. Criar a visualização pelo Spark com os dados enviados para o HDFS:
 8. Salvar a visualização do exercício 6 em um tópico no Elastic
 9. Criar um dashboard no Elastic para visualização dos novos dados enviados
-Nível Avançado:
+
+## Nível Avançado:
 Replicar as visualizações do site “https://covid.saude.gov.br/”, porém acessando diretamente a API de Elastic.
 Link oficial para todas as informações: https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao
 Informações para se conectar ao cluster: 
